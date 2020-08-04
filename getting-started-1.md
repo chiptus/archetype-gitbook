@@ -25,7 +25,7 @@ Install through VS Code extensions. Search for `vscode-archetype`:
 Can also be installed with VS Code Quick Open: press `Cmd/Ctrl + P`, paste the following command, and press enter.
 
 ```text
-ext install edukera.vscode-archetype
+ext install edukera.archetype
 ```
 
 The vscode extension is configured via the normal vscode settings screen.
